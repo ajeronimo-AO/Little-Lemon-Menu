@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "F962B898-3EB8-4FE5-B9A4-4CE62503B03A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LL Menu Dinner.xcodeproj",
+        "identifier" : "7968654230AE23D200B9F4DB",
+        "name" : "MenuItemTests"
+      }
+    }
+  ],
+  "version" : 1
+}
